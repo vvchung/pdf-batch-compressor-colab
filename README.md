@@ -1,6 +1,6 @@
 # 線上 PDF 壓縮工具 (Online PDF Compressor)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gemini-generative-ai/colab-notebooks/blob/main/PDF_Compressor.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 [![Language](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
